@@ -1,25 +1,40 @@
-<h1 align="center">Hi 👋, I'm Soumyadipta Seal</h1>
-<h3 align="center">A passionate MERN STACK developer from India.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0E75B6&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumyadipta+Seal;MERN+Stack+Developer;Passionate+Learner+from+India" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sseal2004&label=Profile%20views&color=0e75b6&style=flat" alt="sseal2004" /> </p>
+<div align="center">
+  <img src="https://github.com/sseal2004/sseal2004/blob/main/WhatsApp%20Image%202025-11-02%20at%2013.29.47.jpeg" alt="Soumyadipta Seal" width="200" height="200" style="border-radius: 50%; border: 4px solid #0e75b6; box-shadow: 0 0 20px rgba(14, 117, 182, 0.5);" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sseal2004" alt="sseal2004" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Blogging App](https://blog-app-f2dn.onrender.com/)
+## 🏆 GitHub Achievements
 
-- 🌱 I’m currently learning **Machine Learning**
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" title="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" title="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" title="YOLO" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90" title="Arctic Code Vault" />
+</p>
 
-- 👯 I’m looking to collaborate on [Olympic Analysing App](https://olympics-data-analysis-dataset.streamlit.app/)
 
-- 🤝 I’m looking for help with [Zenfit MentalHealth App](https://github.com/Zenfit-Mental-Health-App)
+
+
+---
+
+- 🔭 I'm currently working on [Blogging App](https://blog-app-f2dn.onrender.com/)
+
+- 🌱 I'm currently learning **Machine Learning**
+
+- 👯 I'm looking to collaborate on [Olympic Analysing App](https://olympics-data-analysis-dataset.streamlit.app/)
+
+- 🤝 I'm looking for help with [Zenfit MentalHealth App](https://github.com/Zenfit-Mental-Health-App)
 
 - 👨‍💻 All of my projects are available at [#](#)
 
 - 📝 I regularly write articles on [https://blog-app-f2dn.onrender.com/](https://blog-app-f2dn.onrender.com/)
 
-- 💬 Ask me about **1.🌱 I’m currently learning Cloud Computing.<br>👨‍💻 All of my projects are available at My Portfolio <br>📫 You may contact me through s.seal.a.b.c@gmail.com**
+- 💬 Ask me about **1.🌱 I'm currently learning Cloud Computing.<br>👨‍💻 All of my projects are available at My Portfolio <br>📫 You may contact me through s.seal.a.b.c@gmail.com**
 
 - 📫 How to reach me **s.seal.a.b.c@gmail.com**
 
@@ -44,6 +59,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sseal2004&show_icons=true&locale=en" alt="sseal2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sseal2004&" alt="sseal2004" /></p>
+
 ## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sseal2004&show_icons=true&locale=en&layout=compact" alt="sseal2004" /></p>
 
@@ -59,4 +75,3 @@
 </div>
 
 ---
-
