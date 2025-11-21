@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/sseal2004/sseal2004/blob/main/WhatsApp%20Image%202025-11-02%20at%2013.29.47.jpeg" alt="Soumyadipta Seal" width="200" height="200" style="border-radius: 50%; border: 4px solid #0e75b6; box-shadow: 0 0 20px rgba(14, 117, 182, 0.5);" />
+  <img src="https://github.com/sseal2004/sseal2004/blob/main/Gemini_Generated_Image_6ym6ka6ym6ka6ym6.png" alt="Soumyadipta Seal" width="800" height="800" style="border-radius: 50%; border: 4px solid #0e75b6; box-shadow: 0 0 20px rgba(14, 117, 182, 0.5);" />
 </div>
 
 
