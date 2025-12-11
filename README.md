@@ -26,8 +26,9 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" title="YOLO" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90" title="Arctic Code Vault" />
   
-</p><div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sseal2004&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&row=2" alt="GitHub Trophies" />
+</p>
+<div align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
 </div>
 
 
