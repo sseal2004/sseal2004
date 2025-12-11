@@ -25,13 +25,14 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" title="Quickdraw" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" title="YOLO" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90" title="Arctic Code Vault" />
-</p>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sseal2004&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+  
+</p><div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sseal2004&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&row=2" alt="GitHub Trophies" />
 </div>
+
+
+
+
 
 
 
