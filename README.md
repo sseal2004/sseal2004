@@ -167,9 +167,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sseal2004&theme=radical" height="180"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=sseal2004&theme=radical" alt="GitHub Streak"/>
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
