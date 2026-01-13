@@ -43,13 +43,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Web Developement Project
+Web Developement Project:
 
-- 🔭 My Current Project 1 [Blogging App](https://blog-app-f2dn.onrender.com/)
-- 🔭 My Current Project 2 [Chatting App](https://chat-app-x2ht.onrender.com/)
-- 🔭 My Current Project 2 [Weather App](https://weather-frontend-rho-nine.vercel.app/login)
-Machine Learning Project
-- 🔭 My Current Project 1 [Olympics Data Analysis App Machine Learning](https://olympics-data-analysis-dataset.streamlit.app/)
+- 🔭 Project 1 [Blogging App](https://blog-app-f2dn.onrender.com/)
+- 🔭 Project 2 [Chatting App](https://chat-app-x2ht.onrender.com/)
+- 🔭 Project 3 [Weather App](https://weather-frontend-rho-nine.vercel.app/login)
+  
+Machine Learning Project:
+- 🔭  Project 4 [Olympics Data Analysis App Machine Learning](https://olympics-data-analysis-dataset.streamlit.app/)
 - 
 - Currently Working on My Portfolio.
 
