@@ -48,12 +48,12 @@ Web Developement Project:
 - 🔭 Project 1 [Blogging App](https://blog-app-f2dn.onrender.com/)
 - 🔭 Project 2 [Chatting App](https://chat-app-x2ht.onrender.com/)
 - 🔭 Project 3 [Weather App](https://weather-frontend-rho-nine.vercel.app/login)
+-  Currently Working on My Portfolio.
   
 Machine Learning Project:
 - 🔭  Project 4 [Olympics Data Analysis App Machine Learning](https://olympics-data-analysis-dataset.streamlit.app/)
-- 
-- Currently Working on My Portfolio.
 
+  
 - 🌱 I'm currently learning **Machine Learning**
   
 Team Work:
