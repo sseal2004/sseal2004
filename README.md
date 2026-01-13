@@ -49,7 +49,7 @@ Web Developement Project
 - 🔭 My Current Project 2 [Chatting App](https://chat-app-x2ht.onrender.com/)
 - 🔭 My Current Project 2 [Weather App](https://weather-frontend-rho-nine.vercel.app/login)
 Machine Learning Project
-- 🔭 My Current Project 1 [Blogging App](https://olympics-data-analysis-dataset.streamlit.app/)
+- 🔭 My Current Project 1 [Olympics Data Analysis App Machine Learning](https://olympics-data-analysis-dataset.streamlit.app/)
 - 
 - Currently Working on My Portfolio.
 
