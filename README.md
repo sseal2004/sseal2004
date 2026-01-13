@@ -43,25 +43,29 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I'm currently working on [Blogging App](https://blog-app-f2dn.onrender.com/)
+Web Developement Project
+
+- 🔭 My Current Project 1 [Blogging App](https://blog-app-f2dn.onrender.com/)
+- 🔭 My Current Project 2 [Chatting App](https://chat-app-x2ht.onrender.com/)
+- 🔭 My Current Project 2 [Weather App](https://weather-frontend-rho-nine.vercel.app/login)
+Machine Learning Project
+- 🔭 My Current Project 1 [Blogging App](https://olympics-data-analysis-dataset.streamlit.app/)
+- 
+- Currently Working on My Portfolio.
 
 - 🌱 I'm currently learning **Machine Learning**
-
-- 👯 I'm looking to collaborate on [Olympic Analysing App](https://olympics-data-analysis-dataset.streamlit.app/)
+  
+Team Work:
 
 - 🤝 I'm looking for help with [Zenfit MentalHealth App](https://github.com/Zenfit-Mental-Health-App)
 
-- 👨‍💻 All of my projects are available at [#](#)
+About My Blogging App.
 
 - 📝 I regularly write articles on [https://blog-app-f2dn.onrender.com/](https://blog-app-f2dn.onrender.com/)
 
 - 💬 Ask me about **1.🌱 I'm currently learning Cloud Computing.<br>👨‍💻 All of my projects are available at My Portfolio <br>📫 You may contact me through s.seal.a.b.c@gmail.com**
 
 - 📫 How to reach me **s.seal.a.b.c@gmail.com**
-
-- 📄 Know about my experiences [#](#)
-
-- ⚡ Fun fact **I'm a student and a passionate learner from India.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
