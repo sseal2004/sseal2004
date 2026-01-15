@@ -61,11 +61,8 @@ Machine Learning Project:
   
 Team Work:
 
-- 🤝 I'm looking for help with [Zenfit MentalHealth App](https://github.com/Zenfit-Mental-Health-App)
+- 🤝 I'm looking for help with [Zenfit MentalHealth App](https://github.com/Zenfit-Mental-Health-App) in SIH Round 3 Qualifier.
 
-About My Blogging App.
-
-- 📝 I regularly write articles on [https://blog-app-f2dn.onrender.com/](https://blog-app-f2dn.onrender.com/)
 
 - 💬 Ask me about **1.🌱 I'm currently learning Cloud Computing.<br>👨‍💻 All of my projects are available at My Portfolio <br>📫 You may contact me through s.seal.a.b.c@gmail.com**
 
