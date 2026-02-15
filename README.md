@@ -55,8 +55,8 @@ Andriod Project:
 
 Machine Learning Project:
 - 🔭  Project 5 [Olympics Data Analysis App Machine Learning](https://olympics-data-analysis-dataset.streamlit.app/)
+- 🔭  Project 6 [Flight Prediction Web ML APP](https://flight-prediction-buuw.onrender.com)
 
-  
 - 🌱 I'm currently learning **Machine Learning**
   
 Team Work:
