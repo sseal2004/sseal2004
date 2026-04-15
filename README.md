@@ -108,40 +108,30 @@ Team Work:
        style="height: 140px; width: auto; border-radius: 10px;" />
 
   <!-- Social Icons -->
-  <a href="https://linkedin.com/in/soumyadipta-seal-a6633a290/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn" height="45" width="55" />
-  </a>
-
-  <a href="https://instagram.com/its_me_soumyadipta_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         alt="Instagram" height="45" width="55" />
-  </a>
-
-  <a href="https://www.hackerrank.com/profile/s_seal_a_b_c" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-         alt="HackerRank" height="45" width="55" />
-  </a>
-
-  <a href="https://leetcode.com/u/soumyadipta_seal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-         alt="LeetCode" height="45" width="55" />
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/user/sseal85ug/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-         alt="GFG" height="45" width="55" />
-  </a>
+  
+<table align="left">
+<tr>
+<td align="center"><a href="https://linkedin.com/in/soumyadipta-seal-a6633a290/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="55" /></a></td>
+<td align="center"><a href="https://instagram.com/its_me_soumyadipta_/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="45" width="55" /></a></td>
+<td align="center"><a href="https://www.hackerrank.com/profile/s_seal_a_b_c" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="45" width="55" /></a></td>
+<td align="center"><a href="https://leetcode.com/u/soumyadipta_seal/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="45" width="55" /></a></td>
+<td align="center"><a href="https://www.geeksforgeeks.org/user/sseal85ug/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="45" width="55" /></a></td>
+</tr>
+</table>
+  <br/>
+  <br/>
   <br/>
   <br/>
   <!-- GitHub stats badges -->
-  <a href="https://github.com/sseal2004" target="_blank">
+  <div align='left'>
+  <a href="https://github.com/sseal2004" target="_blank" >
     <img src="https://img.shields.io/github/followers/sseal2004?logo=github&style=for-the-badge&color=0e75b6&labelColor=302d41" />
   </a>
 
   <a href="https://github.com/sseal2004" target="_blank">
     <img src="https://img.shields.io/github/stars/sseal2004?logo=github&style=for-the-badge&color=0e75b6&labelColor=302d41" />
   </a>
+  </ḍiv>
 
 </div>
 
