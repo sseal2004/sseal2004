@@ -75,7 +75,7 @@ Web Developement Project:
 - 🔭 Project 1 [Blogging App](https://blog-app-f2dn.onrender.com/)
 - 🔭 Project 2 [Chatting App](https://chat-app-x2ht.onrender.com/)
 - 🔭 Project 3 [Weather App](https://weather-frontend-rho-nine.vercel.app/login)
-- 🔭 Project 3 [Doctor Apoointment App](https://medcare-main.vercel.app/)
+- 🔭 Project 4 [Doctor Apoointment App](https://medcare-main.vercel.app/)
 -  Currently Working on My Portfolio.
   
 Andriod Project:
