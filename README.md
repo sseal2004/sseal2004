@@ -75,14 +75,15 @@ Web Developement Project:
 - 🔭 Project 1 [Blogging App](https://blog-app-f2dn.onrender.com/)
 - 🔭 Project 2 [Chatting App](https://chat-app-x2ht.onrender.com/)
 - 🔭 Project 3 [Weather App](https://weather-frontend-rho-nine.vercel.app/login)
+- 🔭 Project 3 [Doctor Apoointment App](https://medcare-main.vercel.app/)
 -  Currently Working on My Portfolio.
   
 Andriod Project:
-  - 🔭 Project 4 [Restaurant & Food App](https://github.com/sseal2004/Mama-s-kitchen-bct-project)
+  - 🔭 Project 5 [Restaurant & Food App](https://github.com/sseal2004/Mama-s-kitchen-bct-project)
 
 Machine Learning Project:
-- 🔭  Project 5 [Olympics Data Analysis App Machine Learning](https://olympics-data-analysis-dataset.streamlit.app/)
-- 🔭  Project 6 [Flight Prediction Web ML APP](https://flight-prediction-buuw.onrender.com)
+- 🔭  Project 6 [Olympics Data Analysis App Machine Learning](https://olympics-data-analysis-dataset.streamlit.app/)
+- 🔭  Project 7 [Flight Prediction Web ML APP](https://flight-prediction-buuw.onrender.com)
 
 - 🌱 I'm currently learning **Machine Learning**
   
