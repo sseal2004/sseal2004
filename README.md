@@ -104,7 +104,7 @@ Team Work:
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
 
   <!-- Right-aligned Image -->
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/566303171864699.64761967a0915.png"
+  <img src="https://github.com/sseal2004/sseal2004/blob/main/566303171864699.64761967a0915.png"
        alt="Behance Image"
        style="height: 140px; width: auto; border-radius: 10px;" />
 
