@@ -96,7 +96,7 @@ Team Work:
 
 - 💬 Ask me about **1.🌱 I'm currently learning Cloud Computing.<br>👨‍💻 All of my projects are available at My Portfolio <br>📫 You may contact me through s.seal.a.b.c@gmail.com**
 
-- 📫 How to reach me **s.seal.a.b.c@gmail.com**
+- 📫 How to reach me **(https://soumyadiptaportfolio.vercel.app/)**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
