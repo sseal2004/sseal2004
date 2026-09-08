@@ -167,8 +167,12 @@ Team Work:
 
 ### 🐍 My Contribution Snake
 
-<div align="center">
+<!-- <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div> -->
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
