@@ -159,10 +159,7 @@ Team Work:
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sseal2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0E75B6&line=F75C7E&point=FFFFFF" />
-</p>
-
+<img src="./assets/activity-graph.svg" alt="sseal2004's GitHub activity graph" />
 ---
 
 ### 🐍 My Contribution Snake
