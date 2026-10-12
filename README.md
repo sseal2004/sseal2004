@@ -78,7 +78,7 @@ Web Developement Project:
 - 🔭 Project 2 [Chatting App](https://chat-app-x2ht.onrender.com/)
 - 🔭 Project 3 [Weather App](https://weather-frontend-rho-nine.vercel.app/login)
 - 🔭 Project 4 [Doctor Apoointment App](https://medcare-main.vercel.app/)
--  Currently Working on My Portfolio.
+-  [My Portfolio](https://soumyadiptaportfolio.vercel.app/)
   
 Andriod Project:
   - 🔭 Project 5 [Restaurant & Food App](https://github.com/sseal2004/Mama-s-kitchen-bct-project)
